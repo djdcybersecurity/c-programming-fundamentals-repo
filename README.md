@@ -127,3 +127,98 @@ This chapter provides a **solid foundation** for C programming by covering essen
 ## 15. Chapter Quiz
 - A set of questions covering variable types, scope, and best practices.
 
+
+# Chapter 3: Operators in Programming
+
+## Overview
+This repository contains learning materials and code examples based on **Chapter 3: Operators in Programming**. The topics covered in this chapter focus on mathematical, logical, and bitwise operators, along with their proper usage in programming.
+
+## Topics Covered
+
+### 1. Working with Math Operators  
+Learn how to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+### 2. Using Assignment Operators  
+Understand how assignment operators (`=`, `+=`, `-=`, `*=`, `/=`, etc.) are used to assign values to variables efficiently.
+
+### 3. Obeying the Order of Precedence  
+Discover how mathematical expressions follow an order of operations (similar to PEMDAS in mathematics) to produce the correct results.
+
+### 4. Working with Relational Operators  
+Get familiar with comparison operators (`==`, `!=`, `>`, `<`, `>=`, `<=`) and their role in decision-making structures.
+
+### 5. Using Logical Operators  
+Learn how to use logical operators (`&&`, `||`, `!`) for combining multiple conditions in decision-making.
+
+### 6. Understanding Bitwise Operators  
+Explore bitwise operations (`&`, `|`, `^`, `~`, `<<`, `>>`) to manipulate individual bits in integers.
+
+### 7. Shifting Bits  
+Dive into left and right bit shifting (`<<`, `>>`) to efficiently perform multiplication or division by powers of two.
+
+### 8. Exploring Unary Operators  
+Understand unary operators such as increment (`++`), decrement (`--`), and negation (`-`).
+
+## Challenges and Solutions
+
+- **Challenge: Do Some Math**  
+  A hands-on coding challenge to apply math operators in real-world scenarios.
+
+- **Challenge: Get the Order Correct**  
+  A practice problem to reinforce the concept of operator precedence.
+
+- **Chapter Challenge: More Math**  
+  A final challenge that combines multiple operator types in a practical exercise.
+
+
+# Chapter 4: Decisions and Loops
+
+## Overview
+This repository contains learning materials and code examples based on **Chapter 4: Decisions and Loops**. This chapter covers essential control flow concepts, including conditional statements, loops, and iterative structures that allow efficient program execution.
+
+## Topics Covered
+
+### 1. Making a Decision  
+Learn how to use conditional statements (`if`, `else`, `elif`) to make decisions in your program.
+
+### 2. Exploring the Possibilities  
+Understand how different conditions and multiple decision branches influence program flow.
+
+### 3. Using the Ternary Operator  
+Discover how to simplify conditional expressions using the ternary (`?:`) operator.
+
+### 4. Working with the Switch-Case Structure  
+Explore how to use `switch-case` (or equivalent constructs in Python and other languages) for decision-making.
+
+## Looping Structures
+
+### 5. Creating a For Loop  
+Learn how `for` loops allow iteration over sequences, lists, or ranges.
+
+### 6. Setting Up a While Loop  
+Understand how `while` loops execute code repeatedly based on a condition.
+
+### 7. Nesting Loops  
+Dive into loops within loops to handle complex iteration structures.
+
+### 8. Breaking Out of a Loop  
+Learn how to use `break` and `continue` statements to control loop execution.
+
+### 9. Avoiding the Goto Keyword  
+Understand why modern programming avoids the `goto` keyword and explores structured programming alternatives.
+
+## Challenges and Solutions
+
+- **Challenge: Select an Item**  
+  Practice using conditional statements to select an item dynamically.
+
+- **Challenge: Repeat Some Text**  
+  Implement a looping structure to repeat text based on user input or conditions.
+
+- **Chapter Challenge: Interpreting Commands**  
+  A final exercise combining decision-making and loops for practical command interpretation.
+
+
+
+
+
